@@ -1,0 +1,7 @@
+1. объект
+2. примитив (number)
+3. объект
+4. примитив (number)
+5.  объект
+6. примитив (number)
+7. number, string, boolean, null, undefined, bigint, symbol
